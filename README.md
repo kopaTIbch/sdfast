@@ -1,6 +1,7 @@
 # sdfast GColab
 
-[![StableDiffusion](https://i.imgur.com/qHFSvw7.png)] (https://colab.research.google.com/github/kopaTIbch/sdfast/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
+
+[![StableDiffusion](https://i.imgur.com/qHFSvw7.png)](https://colab.research.google.com/github/kopaTIbch/sdfast/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
 
 # Updates
 10.05.23:
