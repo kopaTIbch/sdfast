@@ -1,5 +1,4 @@
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/zstd_1.4.4+dfsg-3ubuntu0.1_amd64.deb
-https://drive.google.com/file/d/1jH_T8Xr1l1dDl2oUMmyy4mBc3WSesZLb/view?usp=share_link
 https://huggingface.co/TheLastBen/dependencies/resolve/main/gcolabdeps.tar.zst
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/1libunwind-dev_1.2.1-9ubuntu0.1_amd64.deb
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/google-perftools_2.5-2.2ubuntu3_all.deb
